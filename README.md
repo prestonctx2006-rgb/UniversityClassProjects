@@ -12,4 +12,4 @@
     * This assignment was to learn how to build a queue, stack, binary search tree, and a singly linked list using classes in C++. Generics were not required for this assignment. The program is a terminal console app to write commands that push requests, process them, undo and redo, and search using the four data structures required.
     * **C++ 17 or more is required to run this program.**
 
-*If you have any questions, email me at [preston.crowe.business@gmail.com](mailto::preston.crowe.business@gmail.com)*
+*If you have any questions, email me at [preston.crowe.business@gmail.com](mailto:preston.crowe.business@gmail.com)*
