@@ -1,0 +1,2 @@
+example array: "apple", "orange", "apple", "banana", "apple", "banana", "orange", "lime", "lemon", "avocado", "avocado"
+example k: 4

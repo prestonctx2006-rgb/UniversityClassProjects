@@ -1,0 +1,1 @@
+result output: "[(apple, 3), (avocado, 2), (banana, 2), (orange, 2)]"
